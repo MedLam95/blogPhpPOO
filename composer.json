@@ -2,7 +2,7 @@
     "name": "lhamo/blog-php-poo",
     "autoload": {
         "psr-4": {
-            "Lhamo\\BlogPhpPoo\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
