@@ -1,0 +1,15 @@
+{
+    "name": "lhamo/blog-php-poo",
+    "autoload": {
+        "psr-4": {
+            "Lhamo\\BlogPhpPoo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mehdi Lhamouz",
+            "email": "lhamouz.mehdi@gmail.com"
+        }
+    ],
+    "require": {}
+}
